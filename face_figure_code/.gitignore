@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Lock file (optionnel, retire si tu veux le versionner)
+uv.lock
+
+# PDFs (papers)
+*.pdf

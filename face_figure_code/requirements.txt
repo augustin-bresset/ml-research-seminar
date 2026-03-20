@@ -1,0 +1,10 @@
+torch
+torchvision
+datasets
+matplotlib
+tqdm
+scipy
+einops
+huggingface_hub
+gdown
+git+https://github.com/keishihara/flow-matching.git
